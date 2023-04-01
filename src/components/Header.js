@@ -26,7 +26,7 @@ const Header = ({setRefresh}) => {
 
   return (
     <div id="todo-header" className="header">
-      <h2>Simple Todo App</h2>
+      <h2>Todo App React Js</h2>
 	  <input 
 		  type="text"
 		  value={title}
